@@ -1,1 +1,2 @@
 This is my git tutorial text file.
+This is line 2nd.
